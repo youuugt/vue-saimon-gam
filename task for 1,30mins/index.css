@@ -1,0 +1,110 @@
+
+.work {
+    margin-left: 100px;
+    width: 350px;
+    background-color: whitesmoke;
+    border-color: black;
+    border-radius: 4px;
+}
+
+.did {
+    width: 350px;
+    height: 350px;
+    margin-left: 700px;
+}
+.h1-work  {
+    display: flex;
+    margin-left: 1px;
+}
+.btn {
+    font-size: 60px;
+    padding-right: -20px;
+}
+.work  h1 {
+    font-size: 25px;
+    color: gray;
+    padding-left: 10px;
+}
+.work h3 {
+    font-size: 30px;
+    padding-left: 95px;
+}
+.work h2 {
+    font-size: 30px;
+    padding-left: 120px;
+}
+.button-work {
+    margin-left: 130px;
+    background-color: white;
+    font-size: 20px;
+    border-radius: 4px;
+}
+.button-work:hover {
+    color: white;
+    cursor: pointer;
+    background-color: green;
+    transition: 0,89s;
+}
+.did {
+    margin-left: 600px;
+    width: 350px;
+    background-color: whitesmoke;
+    border-color: black;
+    border-radius: 4px;
+    margin-top: 20px;
+    height: 500px;
+}
+.container {
+    display: flex;
+}
+.did h2 {
+    font-size: 25px;
+    color: gray;
+    padding-left: 10px;
+
+}
+.did  h1  {
+    font-size: 30px;
+    padding-left: 95px;
+}
+.input {
+    margin-left: 100px;
+    width: 350px;
+    background-color: whitesmoke;
+    border-color: black;
+    border-radius: 4px;
+}
+.input h1 {
+    font-size: 30px;
+    padding-left: 80px;
+}
+.input button {
+    margin-left: 130px;
+    background-color: white;
+    font-size: 20px;
+    border-radius: 4px;
+    margin-top: 40px;
+}
+.input button:hover {
+    color: white;
+    cursor: pointer;
+    background-color: green;
+    transition: 0,89s;
+}
+.inputt {
+    padding-left: 40px;
+    margin-left: 90px;
+}
+.did button {
+    margin-left: 130px;
+    background-color: white;
+    font-size: 20px;
+    border-radius: 4px;
+    margin-top: 40px;
+}
+.did button:hover  {
+    color: white;
+    cursor: pointer;
+    background-color: green;
+    transition: 0,89s;
+}
